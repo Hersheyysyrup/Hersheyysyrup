@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./mangekyou-sharingan.gif" width="100%">
+  <img src="./sharingan.gif" width="100%">
 </div>
 
 <a href="https://discord.com/users/780634582038347796">
@@ -16,7 +16,7 @@
 
 ## ☕ About me
 
-<img src="./pixel.jpg" width="240" align="left">
+<img src="./resize.png" width="240" align="left">
 
 - • Name: **Harshit Nayan**
 - • Student
