@@ -16,7 +16,7 @@
 
 ## ☕ About me
 
-<img src="./Yuta Okkotsu.png" width="240" align="left">
+<img src="./pixel.jpg" width="240" align="left">
 
 - • Name: **Harshit Nayan**
 - • Student
@@ -26,4 +26,4 @@
 
 <br clear="left">
 
-<i>Probably building something else...</i>
+<i>Probably building something new...</i>
