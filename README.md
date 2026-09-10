@@ -2,13 +2,23 @@
   <img src="./mangekyou-sharingan.gif" width="100%">
 </div>
 
-<div align="left">
+<table width="100%">
+<tr>
+<td width="60%">
 
-# Hi! 👋 I'm Harshit
+<h2>Hi! 👋 I'm Harshit</h2>
 
-### _chase the vision, not the validation_
+<i>chase the vision, not the validation</i>
 
-</div>
+</td>
+
+<td width="40%" align="center">
+
+<!-- Discord -->
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -16,13 +26,13 @@
 
 <table>
 <tr>
-<td width="30%">
+<td width="25%">
 
-<img src="./Yuta Okkotsu.png" width="100%">
+<img src="./Yuta Okkotsu.png" width="240">
 
 </td>
 
-<td width="40%">
+<td width="45%">
 
 - • Name: **Harshit Nayan**
 - • Student
