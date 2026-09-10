@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./sasuke-banner.gif" width="100%">
+  <img src="./mangekyou-sharingan.gif" width="100%">
 </div>
