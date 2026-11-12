@@ -22,3 +22,38 @@ Hersheyysyrup@github
 ```
 
 <br clear="left"/>
+
+---
+
+## ☆ Projects . ݁₊ ⊹ . ݁˖ . ݁
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Hersheyysyrup/BRAIN-TUMOR-DETECTOR"><b>BRAIN-TUMOR-DETECTOR</b></a><br>
+CNN that classifies brain MRI scans, trained on the Kaggle Brain Tumor MRI dataset.<br><br>
+<img src="https://img.shields.io/badge/Python-8B5FBF?style=flat-square&logo=python&logoColor=white" alt="Python">
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Hersheyysyrup/PDF-to-Audio-Generator"><b>PDF-to-Audio-Generator</b></a><br>
+Turns a PDF into spoken audio using a RAG pipeline with ChromaDB and an LLM, voiced by Coqui TTS.<br><br>
+<img src="https://img.shields.io/badge/Python-8B5FBF?style=flat-square&logo=python&logoColor=white" alt="Python">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://github.com/Hersheyysyrup/Tacotron2-From-Scratch"><b>Tacotron2-From-Scratch</b></a><br>
+Tacotron 2 text-to-speech model built from scratch in Python.<br><br>
+<img src="https://img.shields.io/badge/Python-8B5FBF?style=flat-square&logo=python&logoColor=white" alt="Python">
+</td>
+<td width="50%" valign="top">
+<a href="https://github.com/Hersheyysyrup/Hybrid-Network-Intrusion-Detection-on-CICIDS2017"><b>Hybrid-Network-Intrusion-Detection-on-CICIDS2017</b></a><br>
+Hybrid machine learning approach to detecting network intrusions on the CICIDS2017 dataset.<br><br>
+<img src="https://img.shields.io/badge/Python-8B5FBF?style=flat-square&logo=python&logoColor=white" alt="Python">
+</td>
+</tr>
+</table>
+
+</div>
