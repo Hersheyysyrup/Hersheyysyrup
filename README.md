@@ -57,3 +57,45 @@ Hybrid machine learning approach to detecting network intrusions on the CICIDS20
 </table>
 
 </div>
+
+---
+
+## ☆ Contact Me . ݁₊ ⊹ . ݁˖ . ݁
+
+<div align="center">
+  <img src="dazaiu.png" align="left" width="300" alt="Dazai">
+</div>
+<br>
+
+<p align="center">
+  𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚘𝚞𝚝 ૮๑•̀ㅁ•́ฅა
+  <br>
+  𝙹𝚞𝚜𝚝 𝚙𝚘𝚔𝚎 𝚖𝚎 𝚊𝚐𝚊𝚒𝚗 𝚒𝚏 𝙸 𝚏𝚘𝚛𝚐𝚎𝚝 𝚝𝚘 𝚛𝚎𝚙𝚕𝚢 ( ´ㅁ` ; )
+  <br>
+  <br>
+  ❀˚✿˖°❀˖°✿˖❀˖°
+  <br>
+</p>
+
+<p align="center">
+<a href="mailto:harshitrajeevnayan@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=%23EA4335&logoSize=auto&labelColor=f9e0ea" alt="Gmail"/>
+</a>
+<a href="https://www.linkedin.com/in/harshit-nayan" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzBBNjZDMiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B&logoSize=auto&labelColor=f9e0ea" alt="LinkedIn"/>
+</a>
+<a href="mailto:hrnayan24-ece@bvucoep.edu.in" target="_blank">
+  <img src="https://img.shields.io/badge/Outlook-white?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwNzhENCIgZD0iTTIwIDRINGMtMS4xIDAtMS45OS45LTEuOTkgMkwyIDE4YzAgMS4xLjkgMiAyIDJoMTZjMS4xIDAgMi0uOSAyLTJWNmMwLTEuMS0uOS0yLTItMnptMCA0bC04IDUtOC01VjZsOCA1IDgtNXYyeiIvPjwvc3ZnPg%3D%3D&logoSize=auto&labelColor=f9e0ea" alt="Outlook"/>
+</a>
+<a href="https://discord.com/users/780634582038347796" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=5865F2&logoSize=auto&labelColor=f9e0ea" alt="Discord"/>
+</a>
+</p>
+
+<div align="center">
+  <a href="https://music.apple.com/in/playlist/anime-wa-suki/pl.u-kv9lbVvFJVWvZDM" target="_blank">
+    <img src="https://img.shields.io/badge/Anime%20Wa%20Suki-white?style=for-the-badge&logo=applemusic&logoColor=%23FA243C&logoSize=auto&labelColor=f9e0ea" alt="Anime Wa Suki on Apple Music"/>
+  </a>
+</div>
+
+<br clear="left"/>
