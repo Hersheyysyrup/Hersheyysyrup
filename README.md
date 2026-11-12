@@ -103,7 +103,7 @@ Hybrid machine learning approach to detecting network intrusions on the CICIDS20
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-**I'm a Night 🦉** 
+**I'm a Twilight Thinker** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -122,39 +122,6 @@ Friday                   26 commits          ████░░░░░░░�
 Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
 Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
 ```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   4 repos             ████████████████████░░░░░   80.00 % 
-TypeScript               1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Hersheyysyrup/Hersheyysyrup/main/assets/bar_graph.png)
 
 
  Last Updated on 12/11/2026 19:52:37 UTC
