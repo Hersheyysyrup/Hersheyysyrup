@@ -124,5 +124,63 @@ Sunday                   16 commits          ██░░░░░░░░░�
 ```
 
 
- Last Updated on 12/11/2026 19:52:37 UTC
+ Last Updated on 13/11/2026 18:32:37 IST
 <!--END_SECTION:waka-->
+
+
+---
+
+## ☆ Tech Stack . ݁₊ ⊹ . ݁˖ . ݁
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<b>⊹ ࣪ ˖ Languages</b><br><br>
+<img src="https://img.shields.io/badge/Python-f38fa9?style=flat-square&logo=python&logoColor=0d1117" alt="Python">
+<img src="https://img.shields.io/badge/C-f38fa9?style=flat-square&logo=c&logoColor=0d1117" alt="C">
+</td>
+<td width="50%" valign="top">
+<b>⋆˙⟡ AI / ML</b><br><br>
+<img src="https://img.shields.io/badge/PyTorch-f38fa9?style=flat-square&logo=pytorch&logoColor=0d1117" alt="PyTorch">
+<img src="https://img.shields.io/badge/TensorFlow-f38fa9?style=flat-square&logo=tensorflow&logoColor=0d1117" alt="TensorFlow">
+<img src="https://img.shields.io/badge/Keras-f38fa9?style=flat-square&logo=keras&logoColor=0d1117" alt="Keras">
+<img src="https://img.shields.io/badge/Scikit--Learn-f38fa9?style=flat-square&logo=scikitlearn&logoColor=0d1117" alt="Scikit-Learn">
+<img src="https://img.shields.io/badge/Pandas-f38fa9?style=flat-square&logo=pandas&logoColor=0d1117" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-f38fa9?style=flat-square&logo=numpy&logoColor=0d1117" alt="NumPy">
+<img src="https://img.shields.io/badge/Matplotlib-f38fa9?style=flat-square" alt="Matplotlib">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>⋆˚࿔ Embedded & IoT</b><br><br>
+<img src="https://img.shields.io/badge/ESP32-f38fa9?style=flat-square&logo=espressif&logoColor=0d1117" alt="ESP32">
+<img src="https://img.shields.io/badge/Arduino-f38fa9?style=flat-square&logo=arduino&logoColor=0d1117" alt="Arduino">
+<img src="https://img.shields.io/badge/ThingSpeak-f38fa9?style=flat-square" alt="ThingSpeak">
+<img src="https://img.shields.io/badge/Multisim-f38fa9?style=flat-square" alt="Multisim">
+</td>
+<td width="50%" valign="top">
+<b>⋆.˚ Tools</b><br><br>
+<img src="https://img.shields.io/badge/Git-f38fa9?style=flat-square&logo=git&logoColor=0d1117" alt="Git">
+<img src="https://img.shields.io/badge/GitHub-f38fa9?style=flat-square&logo=github&logoColor=0d1117" alt="GitHub">
+<img src="https://img.shields.io/badge/Kaggle-f38fa9?style=flat-square&logo=kaggle&logoColor=0d1117" alt="Kaggle">
+<img src="https://img.shields.io/badge/Google%20Colab-f38fa9?style=flat-square&logo=googlecolab&logoColor=0d1117" alt="Google Colab">
+<img src="https://img.shields.io/badge/Linux-f38fa9?style=flat-square&logo=linux&logoColor=0d1117" alt="Linux">
+<img src="https://img.shields.io/badge/VS%20Code-f38fa9?style=flat-square" alt="VS Code">
+<img src="https://img.shields.io/badge/MATLAB-f38fa9?style=flat-square" alt="MATLAB">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<b>.✦ ݁˖ Currently Learning</b><br><br>
+<img src="https://img.shields.io/badge/Agentic%20AI-ff4d6d?style=flat-square" alt="Agentic AI">
+<img src="https://img.shields.io/badge/Java-ff4d6d?style=flat-square" alt="Java">
+<img src="https://img.shields.io/badge/Node.js-ff4d6d?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+<img src="https://img.shields.io/badge/React-ff4d6d?style=flat-square&logo=react&logoColor=white" alt="React">
+<img src="https://img.shields.io/badge/Cloud%20(AWS)-ff4d6d?style=flat-square" alt="Cloud (AWS)">
+</td>
+</tr>
+</table>
+
+</div>
