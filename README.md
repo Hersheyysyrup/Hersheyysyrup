@@ -101,30 +101,17 @@ Hybrid machine learning approach to detecting network intrusions on the CICIDS20
 <br clear="left"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
-**I'm a Twilight Thinker** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                66 commits          █████████░░░░░░░░░░░░░░░░   36.07 % 
-🌃 Evening                92 commits          █████████████░░░░░░░░░░░░   50.27 % 
-🌙 Night                  25 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   18 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-Tuesday                  20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-Wednesday                38 commits          █████░░░░░░░░░░░░░░░░░░░░   20.77 % 
-Thursday                 52 commits          ███████░░░░░░░░░░░░░░░░░░   28.42 % 
-Friday                   26 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Saturday                 13 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
-Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+🌆 Daytime                66 commits          █████████░░░░░░░░░░░░░░░░   35.29 % 
+🌃 Evening                94 commits          █████████████░░░░░░░░░░░░   50.27 % 
+🌙 Night                  27 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
 ```
 
 
- Last Updated on 13/11/2026 18:32:37 IST
+
 <!--END_SECTION:waka-->
 
 
