@@ -101,7 +101,7 @@ Hybrid machine learning approach to detecting network intrusions on the CICIDS20
 <br clear="left"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%204%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
