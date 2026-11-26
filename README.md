@@ -107,9 +107,9 @@ Hybrid machine learning approach to detecting network intrusions on the CICIDS20
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                66 commits          █████████░░░░░░░░░░░░░░░░   34.20 % 
-🌃 Evening                97 commits          █████████████░░░░░░░░░░░░   50.26 % 
-🌙 Night                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.54 % 
+🌆 Daytime                66 commits          █████████░░░░░░░░░░░░░░░░   34.02 % 
+🌃 Evening                98 commits          █████████████░░░░░░░░░░░░   50.52 % 
+🌙 Night                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
 ```
 
 
