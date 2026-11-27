@@ -101,15 +101,15 @@ Hybrid machine learning approach to detecting network intrusions on the CICIDS20
 <br clear="left"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2052%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                66 commits          █████████░░░░░░░░░░░░░░░░   34.02 % 
-🌃 Evening                98 commits          █████████████░░░░░░░░░░░░   50.52 % 
-🌙 Night                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+🌆 Daytime                68 commits          █████████░░░░░░░░░░░░░░░░   34.69 % 
+🌃 Evening                98 commits          ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  30 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
 ```
 
 
